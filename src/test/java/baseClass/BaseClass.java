@@ -53,8 +53,8 @@ public static WebDriver driver;
 		extent = new ExtentReports("C://Users//P10434713//eclipse-workspace//SeleniumAutomation//src//test//java//SeleniumAutomation.html");
 		//extent.addSystemInfo("Environment","Environment Name")
 		extent
-                .addSystemInfo("Host Name", "Demo")
-                .addSystemInfo("Environment", "Demo Automation Testing")
+                .addSystemInfo("Host Name", "Selenium")
+                .addSystemInfo("Environment", "Selenium Automation Testing")
                 .addSystemInfo("User Name", "Ajit Bhavle");
                 //loading the external xml file (i.e., extent-config.xml) which was placed under the base directory
                 //You could find the xml file below. Create xml file in your project and copy past the code mentioned below
