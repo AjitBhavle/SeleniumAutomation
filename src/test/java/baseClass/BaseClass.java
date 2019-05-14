@@ -50,7 +50,7 @@ public static WebDriver driver;
 		//replaceExisting - Setting to overwrite (TRUE) the existing file or append to it
 		//True (default): the file will be replaced with brand new markup, and all existing data will be lost. Use this option to create a brand new report
 		//False: existing data will remain, new tests will be appended to the existing report. If the the supplied path does not exist, a new file will be created.
-		extent = new ExtentReports("C://Users//P10434713//eclipse-workspace//SeleniumAutomation//src//test//java//Demo.html");
+		extent = new ExtentReports("C://Users//P10434713//eclipse-workspace//SeleniumAutomation//src//test//java//SeleniumAutomation.html");
 		//extent.addSystemInfo("Environment","Environment Name")
 		extent
                 .addSystemInfo("Host Name", "Demo")
