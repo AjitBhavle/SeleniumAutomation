@@ -23,7 +23,7 @@
 				<version>2.19.1</version>
 				<configuration>
            			<suiteXmlFiles>
-             			  <suiteXmlFile>C:\Users\P10434713\eclipse-workspace\SeleniumAutomation\testng.xml</suiteXmlFile>
+             			  <suiteXmlFile>C://Users//P10434713//eclipse-workspace//SeleniumAutomation//testng.xml</suiteXmlFile>
           			</suiteXmlFiles>
           			<testFailureIgnore>true</testFailureIgnore>
                 </configuration> 
