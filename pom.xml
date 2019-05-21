@@ -39,8 +39,6 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
-					<fork>true</fork>
-					<executable>C:\Program Files\Java\zulu-8-azure-jdk_8.36.0.3-8.0.202-win_x64\bin\javac</executable>
 				</configuration>
 			</plugin>
 			<plugin>
