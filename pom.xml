@@ -23,7 +23,7 @@
 				<version>2.19.1</version>
 				<configuration>
            			<suiteXmlFiles>
-             			  <suiteXmlFile>C://Users//P10434713//eclipse-workspace//SeleniumAutomation//testng.xml</suiteXmlFile>
+             			  <suiteXmlFile>testng.xml</suiteXmlFile>
           			</suiteXmlFiles>
           			<testFailureIgnore>true</testFailureIgnore>
                 </configuration> 
@@ -39,6 +39,8 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
+					<fork>true</fork>
+					<executable>C:\Program Files\Java\jdk1.8.0_201\bin\javac</executable>
 				</configuration>
 			</plugin>
 			<plugin>
